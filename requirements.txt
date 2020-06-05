@@ -50,7 +50,7 @@ datashape==0.5.4
 decorator==4.3.0
 distlib==0.2.7
 distributed==1.21.8
-Django==2.0.6
+Django==2.2.13
 django-haystack==2.8.1
 djangorestframework==3.8.2
 docutils==0.14
