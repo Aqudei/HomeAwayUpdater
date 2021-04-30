@@ -201,7 +201,7 @@ requests==2.19.1
 requests-oauthlib==0.8.0
 requests-toolbelt==0.8.0
 rope==0.10.7
-rsa==3.4.2
+rsa==4.7
 ruamel-yaml==0.15.37
 s3transfer==0.1.13
 schedule==0.5.0
